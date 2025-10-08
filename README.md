@@ -38,10 +38,11 @@
 
 ### 💡 Featured Projects
 
-[![](https://img.shields.io/badge/-🎥%20Video%20Streaming%20Web%20App-000)](https://github.com/shreyanshsoni/video-streaming-app)
-[![](https://img.shields.io/badge/-🧠%20HitlerGPT%20(AI%20RAG%20App)-000)](https://github.com/shreyanshsoni/hitler-gpt)
-[![](https://img.shields.io/badge/-🥃%20Whiskey%20Mocktail%20Generator-000)](https://github.com/shreyanshsoni/whiskey-mocktail)
-[![](https://img.shields.io/badge/-🌌%203D%20Scene%20Builder-000)](https://github.com/shreyanshsoni/3d-scene-builder)
+[![](https://img.shields.io/badge/-🎥%20Nike%20Shop%20Web%20App-000)](https://github.com/Shreyanshs0ni/nike-shop)
+[![](https://img.shields.io/badge/-🧠%20Expense%20Tracker%20App-000)](expense-tracker-alpha-lac.vercel.app)
+[![](https://img.shields.io/badge/-🥃%20Whiskey%20Mocktail%20Generator-000)](golden-pour.vercel.app)
+[![](https://img.shields.io/badge/-🌌%20Moddern-000)](moddern.vercel.app)
+[![](https://img.shields.io/badge/-🌌%20Apple%20Website%20Clone-000)](apple-website-ruby.vercel.app)
 
 ---
 
