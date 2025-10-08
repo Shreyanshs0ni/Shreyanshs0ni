@@ -76,10 +76,10 @@
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/shreyanshsoni)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Vercel)](https://shreyanshsoni.vercel.app)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/shreyanshsoni)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:shreyanshsoni03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/shreyanshs0ni)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Vercel)]
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/shreyanshs0ni)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:shreyanshsoni07@gmail.com)
 
 ---
 
