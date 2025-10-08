@@ -1,47 +1,88 @@
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/shreyanshsoni)
 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+# Hey there 👋 I'm Shreyansh Soni  
 
-### Languages
+🎓 MCA Student @ **Thapar University, Patiala**  
+💻 Full-Stack Developer | DSA Enthusiast | AI Learner  
+🚀 Passionate about building scalable web apps and exploring how AI meets creativity and code.  
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+---
+
+### 🧠 Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
-### Technologies
+---
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+### ⚙️ Technologies & Tools
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![GSAP](https://img.shields.io/badge/-GSAP-000?&logo=GreenSock)
+![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=three.js)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-000?&logo=openai)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 
-### Full Stack Projects
+---
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+### 💡 Featured Projects
 
-### Cybersecurity Projects
+[![](https://img.shields.io/badge/-🎥%20Video%20Streaming%20Web%20App-000)](https://github.com/shreyanshsoni/video-streaming-app)
+[![](https://img.shields.io/badge/-🧠%20HitlerGPT%20(AI%20RAG%20App)-000)](https://github.com/shreyanshsoni/hitler-gpt)
+[![](https://img.shields.io/badge/-🥃%20Whiskey%20Mocktail%20Generator-000)](https://github.com/shreyanshsoni/whiskey-mocktail)
+[![](https://img.shields.io/badge/-🌌%203D%20Scene%20Builder-000)](https://github.com/shreyanshsoni/3d-scene-builder)
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+---
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+### 📊 GitHub Stats
+
+<a href="https://github.com/shreyanshsoni">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=shreyanshsoni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshsoni&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,ff6b6b,f0e130,52fa5a&theme=graywhite" />
+</a>
+
+---
+
+### 🔥 Streaks & Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshsoni&theme=radical&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshsoni&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- Striver’s A–Z DSA Sheet (LeetCode grind)
+- Advanced Full-Stack Development (Next.js, MongoDB, Node.js)
+- AI Integration in Web Apps
+
+---
+
+### 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/shreyanshsoni)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Vercel)](https://shreyanshsoni.vercel.app)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/shreyanshsoni)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:shreyanshsoni03@gmail.com)
+
+---
+
+⭐ *“Code. Create. Learn. Repeat.”*
