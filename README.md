@@ -42,7 +42,7 @@
 [![](https://img.shields.io/badge/-🧠%20Expense%20Tracker%20App-000)](https://github.com/Shreyanshs0ni/Expense-Tracker)
 [![](https://img.shields.io/badge/-🥃%20Whiskey%20Mocktail%20Generator-000)](https://github.com/Shreyanshs0ni/gsap-whiskey)
 [![](https://img.shields.io/badge/-🌌%20Moddern-000)](https://github.com/Shreyanshs0ni/Moddern)
-[![](https://img.shields.io/badge/-🌌%20Apple%20Website%20Clone-000)](https://github.com/Shreyanshs0ni/apple-website)
+[![](https://img.shields.io/badge/-🌌%20Apple%20Website%20Clone-000)](mailto:shreyanshsoni07@gmail.com)
 
 ---
 
