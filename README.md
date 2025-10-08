@@ -67,14 +67,6 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- Striver’s A–Z DSA Sheet (LeetCode grind)
-- Advanced Full-Stack Development (Next.js, MongoDB, Node.js)
-- AI Integration in Web Apps
-
----
-
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/shreyansh-soni-b2aa5b275/)
