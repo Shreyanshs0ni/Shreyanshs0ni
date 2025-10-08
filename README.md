@@ -39,10 +39,10 @@
 ### 💡 Featured Projects
 
 [![](https://img.shields.io/badge/-🎥%20Nike%20Shop%20Web%20App-000)](https://github.com/Shreyanshs0ni/nike-shop)
-[![](https://img.shields.io/badge/-🧠%20Expense%20Tracker%20App-000)](expense-tracker-alpha-lac.vercel.app)
-[![](https://img.shields.io/badge/-🥃%20Whiskey%20Mocktail%20Generator-000)](golden-pour.vercel.app)
-[![](https://img.shields.io/badge/-🌌%20Moddern-000)](moddern.vercel.app)
-[![](https://img.shields.io/badge/-🌌%20Apple%20Website%20Clone-000)](apple-website-ruby.vercel.app)
+[![](https://img.shields.io/badge/-🧠%20Expense%20Tracker%20App-000)](https://github.com/Shreyanshs0ni/Expense-Tracker)
+[![](https://img.shields.io/badge/-🥃%20Whiskey%20Mocktail%20Generator-000)](https://github.com/Shreyanshs0ni/gsap-whiskey)
+[![](https://img.shields.io/badge/-🌌%20Moddern-000)](https://github.com/Shreyanshs0ni/Moddern)
+[![](https://img.shields.io/badge/-🌌%20Apple%20Website%20Clone-000)](https://github.com/Shreyanshs0ni/apple-website)
 
 ---
 
@@ -77,10 +77,10 @@
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/shreyanshs0ni)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Vercel)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/shreyansh-soni-b2aa5b275/)
+![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Vercel)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/shreyanshs0ni)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:shreyanshsoni07@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](https://www.instagram.com/shreyanshs0ni/)
 
 ---
 
