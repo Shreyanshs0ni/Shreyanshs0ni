@@ -42,7 +42,7 @@
 [![](https://img.shields.io/badge/-🧠%20Expense%20Tracker%20App-000)](https://github.com/Shreyanshs0ni/Expense-Tracker)
 [![](https://img.shields.io/badge/-🥃%20Whiskey%20Mocktail%20Generator-000)](https://github.com/Shreyanshs0ni/gsap-whiskey)
 [![](https://img.shields.io/badge/-🌌%20Moddern-000)](https://github.com/Shreyanshs0ni/Moddern)
-[![](https://img.shields.io/badge/-🌌%20Apple%20Website%20Clone-000)](mailto:shreyanshsoni07@gmail.com)
+[![](https://img.shields.io/badge/-🌌%20Apple%20Website%20Clone-000)](https://github.com/Shreyanshs0ni/apple-website)
 
 ---
 
@@ -80,7 +80,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/shreyansh-soni-b2aa5b275/)
 ![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Vercel)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/shreyanshs0ni)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](https://www.instagram.com/shreyanshs0ni/)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:shreyanshsoni07@gmail.com)
 
 ---
 
