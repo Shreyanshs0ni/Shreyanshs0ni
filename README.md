@@ -46,15 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/Shreyanshs0ni">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Shreyanshs0ni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshs0ni&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,ff6b6b,f0e130,52fa5a&theme=graywhite" />
-</a>
-
----
-
 ### 🔥 Streaks & Activity Graph
 
 <p align="center">
